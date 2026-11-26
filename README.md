@@ -1,7 +1,7 @@
 # IdeaReward: Benchmarking and Training Reward Models for Research Idea Generation
 
 <p align="center">
-    <a href=""><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
+    <a href="https://openreview.net/forum?id=KL3GMYps6X"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
     <a href="https://huggingface.co/collections/THU-KEG/ideareward"><img alt="Hugging Face" src="https://img.shields.io/badge/🤗HuggingFace-IdeaReward-green"></a>
     <a href="https://github.com/THU-KEG"><img alt="THU-KEG Group" src="https://img.shields.io/badge/THU--KEG_Group-blueviolet"></a>
 </p>
